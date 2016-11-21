@@ -9,9 +9,9 @@ Roles can be also mixed – e.g. if a user owns the sensors and acts also as a d
 
 ### Data subscription models:
 -	Data are subscribed to by developers, who provide data in their apps to users.
-A business model could be based on of a flat rate or on the amount of users or requests served with the data.
+(A business model could be based on of a flat rate or on the amount of users or requests served with the data.)
 -	Data are subscribed to by users (or by developers on behalf of users). Users provide data to apps in order to benefit from some analytics/visualization offered by the apps.
-A business model could be based on a flat rate or on amount of apps or requests consuming the data.
+(A business model could be based on a flat rate or on amount of apps or requests consuming the data.)
 
 ### Authentication/authorization manager (AAM) keeps track of the following:
 -	developers, users and data providers - Each entity has one single identity, but may assume multiple roles.
