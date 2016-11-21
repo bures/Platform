@@ -1,7 +1,7 @@
 ### Basic roles: 
-Developer – develops and publishes an app, provides support
-User – subscribes to an app
-Data provider – provides data (in the form of data channels) to the platform 
+- Developer – develops and publishes an app, provides support
+- User – subscribes to an app
+- Data provider – provides data (in the form of data channels) to the platform 
 
 Roles can be also mixed – e.g. if a user owns the sensors and acts also as a data provider.
 
