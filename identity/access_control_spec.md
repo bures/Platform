@@ -1,3 +1,5 @@
+# Requirements for authentication/authorization manager (AAM)
+
 ### Basic roles: 
 - Developer – develops and publishes an app, provides support
 - User – subscribes to an app
